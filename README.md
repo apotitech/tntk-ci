@@ -199,7 +199,7 @@ Repositories themselves for CI/CD.
 
 
 
-After deploying infrastructure from https://github.com/tntk-io/tntk-infra repository we moving to application section. In this section we will deploy our application to our infastructure.
+After deploying infrastructure from https://github.com/apotitech/tntk-infra repository we moving to application section. In this section we will deploy our application to our infastructure.
 
 > Make sure that you have created the <b>CD repository</b> (in our case tntk-io/tntk-cd) before stat CI. This repository should not be public since it performs operational load and contains manifests with information that should not be distributed. It is necessary to create two branches in this repository: dev and prod.
 
