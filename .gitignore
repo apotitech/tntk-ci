@@ -1,5 +1,0 @@
-/bin/*
-.serverless
-*.bak.yml
-.idea/
-.DS_Store
